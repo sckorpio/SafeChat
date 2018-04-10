@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=ch1
+comment0.target=java.lang.String\ getCode(char)
+comment1.params=ch1
+comment1.target=java.lang.String\ giveCode(char)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ input()
+comment1.params=
+comment1.target=void\ calculateMove()
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ drawLine()
+comment4.params=
+comment4.target=void\ play()
+numComments=5
